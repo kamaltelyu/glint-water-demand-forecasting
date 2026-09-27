@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated GLINT manuscript."
+title: "GLINT: Multi-Seasonal Residual Gating in a Linear–Transformer for Cross-Dataset Multi-Horizon Water Demand Forecasting"
+type: software
+authors:
+  - family-names: Kamal
+    given-names: Mustafa
+  - family-names: Shiddiqi
+    given-names: Ary Mazharuddin
+  - family-names: Nurhayati
+    given-names: Ervin
+repository-code: "https://github.com/kamaltelyu/glint-water-demand-forecasting"

@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+requests
+torch
+scipy
+scikit-learn
+pyarrow
+openpyxl
+tqdm
+wf4bwdf>=0.1.0
+urllib3
